@@ -5,7 +5,7 @@
 <style>
 	body {width: 100%;}
 	input {font-size: 16px;}
-	.form {font-family:arial;margin: 200px auto; width: 450px;}		
+	.form {font-family:arial;margin: 0 auto; width: 450px;}		
 	.title {font-family:arial;font-size:20px;text-align:center;margin:0 50px 10px 0;cursor:pointer;}
 	#result {margin-top:5px;}
 </style>
