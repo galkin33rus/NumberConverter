@@ -1,6 +1,6 @@
 <script src="https://cdn.jsdelivr.net/gh/galkin33rus/NumberConverter/test/javascript/main.js"></script>
-<script src="javascript/Converter.js"></script>
-<script src="javascript/MathBigNum.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/galkin33rus/NumberConverter/Converter.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/galkin33rus/NumberConverter/MathBigNum.js"></script>
 
 <style>
 	body {width: 100%;}
