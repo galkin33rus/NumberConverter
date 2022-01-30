@@ -1,4 +1,4 @@
-<script src="https://raw.githubusercontent.com/galkin33rus/NumberConverter/master/test/javascript/main.js"></script>
+<script src="http://cdn.jsdelivr.net/gh/galkin33rus/NumberConverter/test/javascript/main.js"></script>
 <script src="javascript/Converter.js"></script>
 <script src="javascript/MathBigNum.js"></script>
 
